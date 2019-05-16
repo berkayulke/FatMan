@@ -24,12 +24,3 @@ Kaynak dosya adlari dataset.c ve dataset.h olarak verilmistir.
 
 Modeller ile ilgili tum fonksiyonlar src/ altinda bulabilirsiniz.
 Model fonsksiyonlari kaynak dosyalari models.c ve models.h olarak adlandirilmistir.
-
------ Rapor -----
-
-Program ve sonuclar ile ilgili yazilacak rapor doc/ altindadir.
-Rapor dosyasi pdf formatindadir.
-
-
-
-
